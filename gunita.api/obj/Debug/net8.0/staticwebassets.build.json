@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FQoDiOHUhPTg71PXGjHkFGNNEA9t0V5GionxuSbxYz0=",
+  "Source": "gunita.api",
+  "BasePath": "_content/gunita.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
